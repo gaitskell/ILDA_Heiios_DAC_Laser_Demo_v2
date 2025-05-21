@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+
+DO NOT LOOK AT THIS FILE - IT IS PROBABLY NOT USEFUL
+
 Random example that I am trying to look at
 
 250423 Doesn't run yet
